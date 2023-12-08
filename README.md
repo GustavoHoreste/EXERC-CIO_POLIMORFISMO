@@ -1,2 +1,5 @@
 # EXERC-CIO_POLIMORFISMO
-Exercicio sobre POLIMORFISMO para materia de POO - UCB
+
+## Gustavo Horestee Santos Barros - UC22102459
+
+- Exercicio sobre POLIMORFISMO para materia de POO - UCB
